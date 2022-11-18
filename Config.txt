@@ -1,0 +1,1 @@
+maxChannelNum = 5;
